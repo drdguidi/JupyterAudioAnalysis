@@ -17,5 +17,6 @@ which discuss the design and implementation in more deatils.
 
 [1] Darren Tio, Automated Guitar Transcription with Deep Learning. 
 Available at https://towardsdatascience.com/audio-to-guitar-tab-with-deep-learning-d76e12717f81
+
 [2] Andy Wiggins and Youngmoo E. Kim, Automatic Guitar Tablature Transcription with Convolutional Neural Networks. 
 Available at http://nemisig2019.nemisig.org/images/kimSlides.pdf
